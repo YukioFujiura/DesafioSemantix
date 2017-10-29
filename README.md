@@ -1,0 +1,2 @@
+# DesafioSemantix
+Respostas do Desafio
