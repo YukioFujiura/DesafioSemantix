@@ -1,0 +1,1 @@
+A função Main no python funciona para garantir que um módulo importado não seja executado sem ser chamado.
