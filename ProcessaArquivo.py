@@ -11,10 +11,10 @@ def processa_arquivo_csv(n):
 
 def main():
     arquivo = input("Digite o nome do arquivo no fomarto 'nome_do_arquivo.extensao' : ")
-    extensao = arquivo[-3:]
-    if extensao == ("txt"):
+    extensao = arquivo[-4:]
+    if extensao == (".txt"):
         processa_arquivo_txt(arquivo)
-    elif extensao == ("csv"):
+    elif extensao == (".csv"):
         processa_arquivo_csv(arquivo)
     else:
         print("O arquivo não se encontra na extensão .txt ou .csv")
