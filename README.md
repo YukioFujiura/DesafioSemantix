@@ -14,4 +14,4 @@ Pergunta 6 - O parâmetro q é a query principal, os documentos recebem uma pont
 
 Pergunta 7 - É um paradigma de programação focado em transformar data através do uso de expressões curtas que idealmente não possuem efeitos colaterais. Ele é imutável, trabalha com funções de alto nível, gerenciamento explícito de estado. Até então não havia entrado em contato com nenhuma programação funcional, mas já ouvi falar de Haskell e Scala.
 
-Pergunta 8 - Linguagem funcional são mais úteis para Bigdata, pois são mais fáceis de se paralelizar os códigos, sendo assim capaz de cuidar de um grande volume de data. Também podemos falar do MapReduce que é muito utilizado na BigData e é uma função de linguagem funcional.
+Pergunta 8 - Linguagem funcional são mais úteis para Bigdata, pois são mais fáceis de se paralelizar os códigos, sendo assim capazes de cuidar de um grande volume de data sem muito esforço, o fato dela trabalhar com variáveis imutáveis também simplifica o processo de paralelização e serialização. Podemos citar também a função MapReduce, apesar de não ser exclusiva de linguagem funcional ela essencial para o BigData.
