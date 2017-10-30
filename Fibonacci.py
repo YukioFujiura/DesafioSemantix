@@ -27,9 +27,9 @@ def fibonacci_iterativo(n):
 def main():
     n=int(input("Digite um número "))
     for i in range(1,n+1):
-        print ("Esse eh o fibonacci recursivo é = "+str(fibonacci_recursivo(i)))
+        print ("O fibonacci recursivo é = "+str(fibonacci_recursivo(i)))
     for i in range(1,n+1):
-        print ("Esse eh o fibonnaci iterativo é = "+ str(fibonacci_iterativo(i)))
+        print ("O fibonacci iterativo é = "+ str(fibonacci_iterativo(i)))
 if __name__=="__main__":
     main()
 
